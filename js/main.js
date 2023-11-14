@@ -301,17 +301,17 @@
     * ------------------------------------------------------ */
     (function ssInit() {
 
-        ssPreloader();
-        ssParallax();
-        ssMoveHeader();
-        ssMobileMenu();
-        ssScrollSpy();
-        ssSwiper();
-        ssLightbox();
-        ssAlertBoxes();
-        ssSmoothScroll();
-        ssBackToTop();
+        ssPreloader()
+        ssParallax()
+        ssMoveHeader()
+        ssMobileMenu()
+        ssScrollSpy()
+        ssSwiper()
+        ssLightbox()
+        ssAlertBoxes()
+        ssSmoothScroll()
+        ssBackToTop()
 
-    })();
+    })()
 
 })(document.documentElement);

@@ -3,7 +3,6 @@ body::-webkit-scrollbar{
     display:none;
 }
 .modal-bg{
-   
     position: fixed;
     width: 100%;
     height: 100vh;
